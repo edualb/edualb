@@ -1,14 +1,8 @@
-<p align="center">
-<h1>Welcome 😄</h1>
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=edualb&&show_icons=true&theme=dracula" alt="Pramod's Github Stats"> -->
-</p>  
+<h1 align="center">👽🍁 Welcome 🍁👽</h1>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=edualb&&show_icons=true&theme=dracula" alt="Pramod's Github Stats"> -->  
 
 ### About me 🔭
-Fascinated by Software Development universe, I am graduated in Computer Engineering and I've been working as a Software Developer since 2017 with focus in backend developing using Go, Java, Scala and Javascript/Typescript. I am a quick learner and I am an easy-going person who will provide a really good team environment, commitment and with sharing knowledge and experience between the team.
-
-### Contacts 📫
-
-- Linkedin: [Profile](https://www.linkedin.com/in/eduardo-albuquerque-da-silva-6b4114144/)
+Fascinated by Software Development universe, I am graduated in Computer Engineering and I've been working as a Software Developer since 2017 with focus in backend developing using Go, C and Shell Script (sometimes Java and Javascript/Typescript). I am a quick learner and I am an easy-going person who will provide a really good team environment, commitment and sharing knowledge and experience to all teammates.
 
 <!-- ## 🔋 Stack -->
 
