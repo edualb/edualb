@@ -1,4 +1,4 @@
-<h1 align="center">👽🍁 Welcome 🍁👽</h1>
+<h1 align="center">👽 Welcome 👽</h1>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=edualb&&show_icons=true&theme=dracula" alt="Pramod's Github Stats"> -->  
 
 ### About me 🔭
